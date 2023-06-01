@@ -1,8 +1,8 @@
 # This is watch E-Commerce Websites ⌚
 
-### Responsive Watches Website ⌚
+### Watches Website ⌚
 
-- Responsive Watches Website Using HTML CSS & JavaScript
+-  Watches Website Using HTML CSS & JavaScript
 
 
 
